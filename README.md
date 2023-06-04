@@ -1,30 +1,5 @@
 ### Hi there 👋
 
-<style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      padding: 20px;
-    }
-
-    h1 {
-      color: #333;
-      text-align: center;
-    }
-
-    p {
-      color: #666;
-      line-height: 1.5;
-      text-align: center;
-    }
-
-    .profile-img {
-      display: block;
-      margin: 0 auto;
-      width: 200px;
-      border-radius: 50%;
-    }
-  </style>
 </head>
 <body>
   <h1>안녕하세요! 저는 [이름]입니다.</h1>
