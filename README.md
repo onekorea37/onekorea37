@@ -1,32 +1,50 @@
-### Hi there 👋
 
-</head>
 <body>
-  <h1>안녕하세요! 저는 [이름]입니다.</h1>
-  <img src="profile.jpg" alt="프로필 사진" class="profile-img">
-  <p>안녕하세요! 저는 [이름]입니다. [직업/전공/업무]를 [기간]동안 경험하였고, [특기/전문성]에 대해 자신 있습니다. [어떤 사람이고 어떤 가치를 중요시하는지]에 대한 간단한 소개를 제공합니다. [추가적인 정보/연락처]를 원하시면 아래 연락처로 저에게 연락해주세요!</p>
-  <p>이메일: [이메일 주소]</p>
-  <p>전화번호: [전화번호]</p>
+  <h1>Hi there, welcome to my page😋</h1>
+  <h4>I'm Dowon. I was born in South Korea🇰🇷, (Hey! not North Korea👻) and currently live in Ottawa, Canada🇨🇦</h4>
+  <br>
+  <section id="introduce">
+    <p>✅ I want to be a Full-Stack Developer because I am dreaming to create great software to protect people</p>
+    <p>✅ who are vulnerable in society. And I am also deeply interested in fields of robotics and AI.</p>
+  </section>
   
-  <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react"/>
+  <br> 
+  <section id="skills">
+    <h2>My Skills🔥</h2>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring"/>
+        <img src="https://img.shields.io/badge/Spring Boot-441231?style=for-the-badge&logo=Spring Boot"/> <br>
+        <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-E14872?style=for-the-badge&logo=CSS3"/>
+        <img src="https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react"/><br>
+        <img src="https://img.shields.io/badge/MySQL-3DBAB6?style=for-the-badge&logo=MySQL"/> 
+        <img src="https://img.shields.io/badge/PostgreSQL-364634?style=for-the-badge&logo=PostgreSQL"/>
+  </section>
   
+  <br>
+  <section id="projects">
+    <h2>My latest Projects</h2>
+      <h3>⭐️ Create a personal blog with String Boot to be familar with Spring and React</h3>
+      <p>∙ Developing and maintained backend systems using Spring boot framework with React.</p>
+      <p></p>
+      <h3>⭐️ Group Project with school mates</h3>
+      <p>∙ Build an android application about library seat reservation with two members.</p>
+      ∙ <a href="https://github.com/onekorea37/Library_Booking_Table">https://github.com/onekorea37/Library_Booking_Table</a>
+      <p></p>
+      <h3>⭐️ Hack the Hill / Hackathon in Ottawa</h3>
+      <p>∙ Developed a 2D game by using C# on the seriousness of marine environment pollution for children.</p>
+      ∙ <a href="https://github.com/onekorea37/OceanFree">https://github.com/onekorea37/OceanFree</a>
+      <p></p>
+      <h3>⭐️ uOttaHack / Hackathon in Ottawa</h3>
+      <p>∙ Developed a VR games with C# about cybersecurity in a group of three in 36 hours.</p>
+      ∙ <a href="https://github.com/onekorea37/uOttaHack_Project">https://github.com/onekorea37/uOttaHack_Project</a>
+      <p></p>
+      <h3>⭐️ McGameJam / Gamejam in Montreal</h3>
+      <p>∙ Developed a 2D arcade flash game with Java in a group of two in 48 hours.</p>
+      ∙ <a href="https://github.com/onekorea37/BubbleBubble">https://github.com/onekorea37/BubbleBubble</a>
+  
+  </section>
 </body>
 
 
-
-
-<!--
-**onekorea37/onekorea37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
