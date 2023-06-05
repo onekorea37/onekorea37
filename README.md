@@ -9,7 +9,7 @@
   <p>전화번호: [전화번호]</p>
   
   <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
-  ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
+  <img src="https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react"/>
   
 </body>
 
