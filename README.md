@@ -1,6 +1,6 @@
 
 <body>
-  <h1>Hi there, welcome to my page😋</h1>
+  <h1>Helloo, welcome to my page😋</h1>
   <h4>I'm Dowon. I was born in South Korea🇰🇷, (Hey! not North Korea👻) and currently live in Ottawa, Canada🇨🇦</h4>
   <br>
   <section id="introduce">
