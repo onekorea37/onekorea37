@@ -1,7 +1,7 @@
 
 <body>
   <h1>Helloo, welcome to my page😋</h1>
-  <h4>I'm Dowon. I was born in South Korea🇰🇷, (Hey! not North Korea👻) and currently live in Ottawa, Canada🇨🇦</h4>
+  <h4>I'm Dowon. I was born in South Korea🇰🇷 and currently live in Ottawa, Canada🇨🇦</h4>
   <br>
   <section id="introduce">
     <p>✅ I want to be a Full-Stack Developer because I am dreaming to create great software to protect people</p>
