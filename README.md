@@ -5,7 +5,7 @@
   <br>
   <section id="introduce">
     <p>✅ I want to be a Full-Stack Developer because I am dreaming to create great software to protect people</p>
-    <p>✅ who are vulnerable in society. And I am also deeply interested in fields of robotics and AI.</p>
+    <p>✅ who are vulnerable in society. And I am also deeply interested in AI industry.</p>
   </section>
   
   <br> 
