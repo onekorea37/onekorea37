@@ -4,8 +4,7 @@
   <h4>I'm Dowon. I was born in South Korea🇰🇷 and currently live in Ottawa, Canada🇨🇦</h4>
   <br>
   <section id="introduce">
-    <p>✅ I want to be a Full-Stack Developer because I am dreaming to create great software to protect people</p>
-    <p>✅ who are vulnerable in society. And I am also deeply interested in AI industry.</p>
+    <p>✅ Hello, I am Dowon. I am highly interested in IT industry. As a student of Algonquin college, I focus on the course most days, but whenever I have time, I try to explore interest things related in Computer such as Hackathon, new technologies. I am still leaner but I hope I could be able to create something cool or help for other people in the near future. Thank you.</p>
   </section>
   
   <br> 
@@ -14,7 +13,7 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python"/>
         <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring"/>
-        <img src="https://img.shields.io/badge/Spring Boot-441231?style=for-the-badge&logo=Spring Boot"/> <br>
+        <br>
         <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-E14872?style=for-the-badge&logo=CSS3"/>
