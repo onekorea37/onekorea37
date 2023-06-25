@@ -12,7 +12,7 @@
   <section id="skills">
     <h2>My Skills🔥</h2>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=OpenJDK&logoColor=purple"/>
+        <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python"/>
         <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring"/>
         <img src="https://img.shields.io/badge/Spring Boot-441231?style=for-the-badge&logo=Spring Boot"/> <br>
         <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
