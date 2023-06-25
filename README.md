@@ -25,7 +25,6 @@
   <br>
   <section id="projects">
     <h2>My latest Projects</h2>
-  
       <h3>⭐️ Group Project with school mates</h3>
       <p>∙ Build an android application about library seat reservation with two members.</p>
       ∙ <a href="https://github.com/onekorea37/Library_Booking_Table">https://github.com/onekorea37/Library_Booking_Table</a>
