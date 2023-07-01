@@ -14,6 +14,10 @@
         <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python"/>
         <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring"/>
         <br>
+        <img src="https://img.shields.io/badge/Linux-green?style=for-the-badge&logo=Linux"/>
+        <img src="https://img.shields.io/badge/Bash-green?style=for-the-badge&logo=Bash"/>
+        <img src="https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=Shell"/>
+        <br>
         <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-E14872?style=for-the-badge&logo=CSS3"/>
