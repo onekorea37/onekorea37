@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring"/>
         <br>
         <img src="https://img.shields.io/badge/Linux-DarkKhaki?style=for-the-badge&logo=Linux"/>
-        <img src="https://img.shields.io/badge/Bash-blue?style=for-the-badge&logo=Bash"/>
+        <img src="https://img.shields.io/badge/Bash-Turquoise?style=for-the-badge&logo=Bash"/>
         <img src="https://img.shields.io/badge/Shell-orange?style=for-the-badge&logo=Shell"/>
         <br>
         <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
